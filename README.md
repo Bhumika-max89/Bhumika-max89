@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhumika-max89!
+# 👋 Hi, I'm Bhumika 
 
 I'm a passionate B.Tech student in Computer Science Engineering with a keen interest in programming languages, investing, business, and technological innovations. My journey involves exploring the intersection of technology and real-world applications, particularly in the domain of Machine Learning and data analysis.
 
